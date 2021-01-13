@@ -7,7 +7,7 @@
 * [Autorzy](#autorzy)
 
 ## Opis aplikacji
-Po uruchomieniu aplikacja zaczyna odtwarzać pierwszy utwór, wyświetla obraz utworu oraz zaczyna odliczanie czasu. Możemy przewijać utwory do przodu i do tyłu oraz zatrzymać działanie aplikacji.
+Po uruchomieniu i naciśnięciu Start aplikacja zaczyna odtwarzać pierwszy utwór, wyświetla obraz utworu oraz zaczyna odliczanie czasu. Możemy przewijać utwory do przodu i do tyłu oraz zatrzymać działanie aplikacji.
 
 ## Instrukcja
 ![zdj1](./img/zdj1.png)
