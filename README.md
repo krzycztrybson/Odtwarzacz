@@ -16,9 +16,9 @@ Kliknij "Start", aby rozpocząć działanie aplikacji
 
 ![zdj2](./img/zdj2.png)
 
-Kliknij "Next", aby przejsć do nastepnego utworu
-  Kliknij "Prev", aby przejsć do poprzedniego utworu
-Kliknij "Stop", aby zatrzymać działanie aplikacji
+* Kliknij "Next", aby przejsć do nastepnego utworu
+* Kliknij "Prev", aby przejsć do poprzedniego utworu
+* Kliknij "Stop", aby zatrzymać działanie aplikacji
 
 ## Technologie
 * Aplikacja stworzona w środowisku Android Studio
